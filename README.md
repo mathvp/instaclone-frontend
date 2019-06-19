@@ -1,3 +1,13 @@
+## Instaclone frontend
+This is from a React tutorial from Rocketseat OmniStack course
+It depends on a Backend (here [NodeJs Backend](https://github.com/mathvp/instaclone-backend)) to receive data via API (with Axios) and shows to the user.
+Socket.io was used to simulate a real time experience, so, when the Like button was pressed, the counter is incremented at the same time 'live'.
+
+## Screenshot
+![Instaclone](https://raw.githubusercontent.com/mathvp/instaclone-frontend/master/screenshot1.png)
+
+----------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
